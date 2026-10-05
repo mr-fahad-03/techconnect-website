@@ -3,10 +3,6 @@
 A pixel-faithful Laravel rebuild of two sibling Hugo sites (both on the
 `hugo-brewm` theme):
 
-| Site | Original | Here |
-|---|---|---|
-| TechConnect 2026 | <https://rnd.iitb.ac.in/techconnect/en/> | `/` |
-| ResCon 2026 | <https://rnd.iitb.ac.in/rescon/en/> | `/rescon` |
 
 Visible text on every mirrored page is byte-identical to the live original
 (21 pages compared, 21 identical). TechConnect's "ResCon" nav link now points at
